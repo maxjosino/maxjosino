@@ -1,7 +1,7 @@
-### Hello 👋 
+### Hello 👋
 I'm a Brazilian Product Designer with Software engineering skills and distinctive experience working for early-stage (seed, series A, and B) startups.
 
-### Wanna chat?
+### Wanna chat? 
 
 - **instagram:**  [@maxjosino](https://www.instagram.com/maxjosino/)
 - **linkedin:**  [LinkedIn](https://www.linkedin.com/in/maxjosino/)
