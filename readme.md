@@ -2,9 +2,7 @@
 I'm a Brazilian Product Designer with Software engineering skills and distinctive experience working for early-stage (seed, series A, and B) startups.
 
 ### Wanna chat?
-
-- **instagram:**  [@maxjosino](https://www.instagram.com/maxjosino/)
-- **linkedin:**  [LinkedIn](https://www.linkedin.com/in/maxjosino/)
+- **Iinkedin:**  [LinkedIn](https://www.linkedin.com/in/maxjosino/)
 
 **Up check some of my Spotify playlists?**
 - [The Indie Electronic Mixtape](https://open.spotify.com/playlist/3huEILYH53GelkMxyE42JY?si=634bcb393ee9428b)
