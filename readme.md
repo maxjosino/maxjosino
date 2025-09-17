@@ -3,11 +3,6 @@ I'm a Brazilian Product Designer with Software engineering skills and distinctiv
 
 I'm currently the Founding Product Designer and first employee at Ground (Techstars and FFF). Previously, I was one of the first design hires at Nubank (NYSE: NU), and later joined Fast, backed by Stripe and Index Ventures.
 
-At Nubank, I helped shape the future of financial services in LATAM. I worked across Credit Card, Customer Support, and Payments, combining design and engineering to build experiences that now serve over 100 million customers.
-
-At Fast, I focused on scaling our Design System across teams and driving adoption among engineers and designers. I also designed the 1-Click Checkout experience and the Mobile SDK for merchants.
-
-
 
 ### Wanna chat?
 - [LinkedIn](https://www.linkedin.com/in/maxjosino/)
