@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm a Brazilian Product Designer with Software engineering skills and distinctive experience working for early-stage (seed, series A, and B) startups.
+I'm a Brazilian Product Designer and Software Engineer with distinctive experience working for early-stage (seed, series A, and B) startups.
 
 I'm currently the Founding Product Designer and first employee at [Ground](https://joinground.com/) (Techstars and FFF). Previously, I was one of the first design hires at [Nubank (NYSE: NU)](https://www.crunchbase.com/organization/nubank), and later joined Fast, backed by Stripe and Index Ventures.
 
